@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Ejercicio_de_Estructura_3;
+
+LeerArchivo.Iniciar();
+Menu.Iniciar();
+Console.WriteLine("Cerrando...");
